@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f01084d5cb42e64d907e45e9b0836f7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _EarthTex: {fileID: 2800000, guid: b0b34e5bbcab38b49a1aecb39521277a, type: 3}
+  - _CloudsTex: {fileID: 2800000, guid: af490265082fedd48ad69d269bbb935f, type: 3}
+  - _EarthWater: {fileID: 2800000, guid: 0f6b4b1ebdc4aa24c84a2fc22672e230, type: 3}
+  - _node_798: {fileID: 2800000, guid: d4c1223acb28b2045996285b17b78b55, type: 3}
+  - _node_4414: {fileID: 2800000, guid: c8082f317668c0d4698635ec4484d3e7, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
