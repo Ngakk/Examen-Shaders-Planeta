@@ -39,9 +39,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _CloudSpinSpd: 0.3
+    - _CloudSpinSpd: 0.1
     - _CloudsShadowAtenuation: 0
-    - _EarthSpinSpd: 0.2
+    - _EarthSpinSpd: 0.05
     - _EmissionIntensity: 0.4983755
     - _FresnelPower: 2.312429
     - _LightFadeAtenuation: -1.759014
