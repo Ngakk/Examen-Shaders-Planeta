@@ -40,12 +40,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _CloudSpinSpd: 0.3
+    - _CloudsShadowAtenuation: 0
     - _EarthSpinSpd: 0.2
-    - _EmissionIntensity: 1
-    - _FresnelPower: 6.26
-    - _NormalMapIntensity: 1
-    - _SpecularIntensity: 1.301042
+    - _EmissionIntensity: 0.4983755
+    - _FresnelPower: 2.312429
+    - _LightFadeAtenuation: -1.759014
+    - _NormalMapIntensity: 0.644
+    - _SpecularIntensity: 1.10145
     - _SpecularPower: 4.619136
     m_Colors:
+    - _CloudColor: {r: 1, g: 1, b: 1, a: 1}
     - _EarthLightsColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
